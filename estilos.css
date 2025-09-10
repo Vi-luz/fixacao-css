@@ -1,0 +1,30 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1, h2 {
+    color: #0f172a;
+}
+h1 {
+    letter-spacing: 2px;
+}
+p {
+    line-height: 1.6;
+}
+button {
+    text-transform: uppercase;
+}
+.cartao {
+    border: 1px solid #cbd5e1;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.container {
+max-width: 800px;
+margin: auto;
+}
+ /*usei (footer) por que pelo id (rodape-principal) não estava funcionando.*/
+ footer {
+    border-top: 4px solid #3b82f6;
+ }
